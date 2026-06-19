@@ -11,7 +11,7 @@ public class HomeController {
     public String home() {
         return "<div style='text-align:center; margin-top:50px; font-family:sans-serif;'>"
              + "<h1>Ambiente de Staging (Spring Boot + Java 21)</h1>"
-             + "<h2 style='color:#e67e22;'>Versão 3.0 - Pipeline de Staging Concluído!</h2>"
+             + "<h2 style='color:#2980b9;'>Versão 1.0 - Deploy em Container Docker!</h2>"
              + "</div>";
     }
 }
